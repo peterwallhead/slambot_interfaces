@@ -1,2 +1,2 @@
-int64 left_encoder
-int64 right_encoder
+int32 left_encoder
+int32 right_encoder
